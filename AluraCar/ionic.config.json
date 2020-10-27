@@ -1,0 +1,7 @@
+{
+  "name": "AluraCar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
